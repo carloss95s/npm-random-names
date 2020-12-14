@@ -3,12 +3,12 @@ const messages = [
     "Rene",
     "Carlos",
     "Andrea",
-    "Juan"
+    "Juan",
     "Johan"
 ];
 
 const randomMsg = () => {
-    const message = messages[Math.floor(Math.random() * messages.[length])];
+    const message = messages[Math.floor(Math.random() * messages.length)];
     console.log(message);
 }
 
