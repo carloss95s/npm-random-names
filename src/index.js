@@ -6,7 +6,8 @@ const names = [
     "Juan",
     "Johan",
     "Carolina",
-    "Paulina"
+    "Paulina",
+    "Ramon"
 ];
 
 const randomNames = () => {
