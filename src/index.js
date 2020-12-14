@@ -14,4 +14,4 @@ const randomNames = () => {
     console.log(name);
 }
 
-module.exports = {randomName};
+module.exports = {randomNames};
