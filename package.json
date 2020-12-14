@@ -14,7 +14,15 @@
   "author": "Carlos Silva <ceskodes@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-nam": "./bin/global.js"
+    "random-nam": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloss95s/npm-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carloss95s/npm-random-names/issues"
+  },
+  "homepage": "https://github.com/carloss95s/npm-random-names#readme"
 }
