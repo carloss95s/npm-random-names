@@ -1,7 +1,7 @@
 {
-  "name": "random-messages",
+  "name": "random-names-function",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "Funcion de nombres aleatorios",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
