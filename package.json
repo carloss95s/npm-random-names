@@ -14,7 +14,7 @@
   "author": "Carlos Silva <ceskodes@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-nam": "./bin/global.js"
   },
   "preferGlobal": true
 }

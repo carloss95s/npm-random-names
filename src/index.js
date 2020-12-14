@@ -9,7 +9,7 @@ const names = [
     "Paulina"
 ];
 
-const randomName = () => {
+const randomNames = () => {
     const name = names[Math.floor(Math.random() * names.length)];
     console.log(name);
 }
